@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-feYlcKWHwlVhfkUhbbJQGavQtWCU288#scrollTo=s02NKuNI0Dj6)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muhammad-Awais-Professiona/nyc-taxi-ml-assignment1/blob/main/notebook.ipynb)
